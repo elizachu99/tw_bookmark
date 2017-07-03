@@ -1,0 +1,3 @@
+javascript:(function(){var s=document.getElementById("tongwenlet_tw");if(s!=null){document.body.removeChild(s);}var s=document.createElement("script");s.language="javascript";s.type="text/javascript";s.src="file:///Users/Eli/Documents/Eli/Development/Javascript/bookmarklet_tw.js";s.id="tongwenlet_tw";document.body.appendChild(s); })();
+
+
